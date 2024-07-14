@@ -36,3 +36,4 @@ pascal_voc_writer
 pycocotools
 python-levenshtein
 fuzzywuzzy
+numpy
